@@ -21,7 +21,7 @@
 * Product strategy for AI/ML features and go-to-market
 * Bridging the gap between technical AI capabilities and business value
 
-###⚡ Fun fact
+### ⚡ Fun fact
 
 * Surfing HB and overlanding off Highway 395 in my Jeep 🏄‍♂️
 
