@@ -1,25 +1,26 @@
 # Hi there 👋 I'm Jason Derr
 
-## AI Product Manager | Founder
+## Technical AI Product Manager | Founder @ Magnetiz.ai
 
 ### 🔧 I'm currently working on:
 
-* Building private LLM infrastructure at Magnetiz that lets companies ditch expensive Enterprise AI licenses and keep their data locked down tight with secure, containerized AI stacks
-* Building EvalOS - a production-grade AI content evaluation framework with 4-layer ML architecture
-* Open-source PM MCP toolkit integrating 50+ optimized frameworks across major LLMs
+* **Templatiz:** Architecting an AI-native Content OS that features **YOLO Mode**—a fully autonomous agentic loop that curates, personalizes, and publishes content without human intervention.
+* **Magnetiz.ai:** Building private, containerized LLM infrastructure that lets enterprises ditch per-seat SaaS licenses for secure, local-first AI stacks.
+* **EvalOS:** A production-grade evaluation framework with a 4-layer ML architecture for measuring content quality and hallucination rates.
+* **Product Manager MCP:** Maintaining an open-source MCP server that integrates 50+ product frameworks directly into Claude/ChatGPT contexts.
 
-### 🌱 I'm currently learning
+### 🔬 I'm currently exploring:
 
-* Advanced prompt engineering and LLM fine-tuning techniques
-* Multi-modal AI system architecture and deployment
-* AI safety and alignment in production environments
+* **Context-Aware RAG:** Engineering "Personalized Trending" engines that filter global noise through specific business context vectors (as seen in Templatiz).
+* **Reasoning Models:** Optimizing chain-of-thought patterns (o1/DeepSeek) for complex agentic decision-making.
+* **Small Language Models (SLMs):** Running high-performance, local-first inference for privacy-centric enterprise stacks.
 
-### 💬 Ask me about
+### 💬 Ask me about:
 
-* Building AI products from 0→1 with proven methodologies
-* ML-powered automation and intelligent workflow design
-* Product strategy for AI/ML features and go-to-market
-* Bridging the gap between technical AI capabilities and business value
+* **The "Post-SaaS" Shift:** Why the future is Agentic Workflows (like YOLO Mode), not just Chatbots.
+* **AI Validation:** How I use LangSmith and EvalOS to prevent the "80% failure rate" of AI projects.
+* **Technical Implementation:** Next.js 14 App Router, Supabase Real-time, and n8n automations.
+* **Strategy:** Bridging the gap between "cool demo" and "measurable business outcome."
 
 ### ⚡ Fun fact
 
