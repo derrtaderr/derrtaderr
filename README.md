@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jason Derr
 
-## Technical AI Product Manager | Founder @ Magnetiz.ai
+## Technical AI Product Manager | Founder @ Templatiz
 
 ### 🔧 I'm currently working on:
 
