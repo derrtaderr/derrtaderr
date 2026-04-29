@@ -1,26 +1,16 @@
 # Hi there 👋 I'm Jason Derr
 
-## AI Product Manager | Founder @ Templatiz
+## AI GTM Engineer | Founder @ Templatiz
 
 ### 🔧 I'm currently working on:
 
-* **Templatiz:** Architecting an AI-native Content OS that features **YOLO Mode**—a fully autonomous agentic loop that curates, personalizes, and publishes content without human intervention.
-* **Magnetiz.ai:** Building private, containerized LLM infrastructure that lets enterprises ditch per-seat SaaS licenses for secure, local-first AI stacks.
-* **EvalOS:** A production-grade evaluation framework with a 4-layer ML architecture for measuring content quality and hallucination rates.
-* **Product Manager MCP:** Maintaining an open-source MCP server that integrates 50+ product frameworks directly into Claude/ChatGPT contexts.
+* **Magnetiz.ai** — AI agent systems for B2B GTM teams. 37+ production agents, 85+ GTM skills, 5 custom MCP servers. Eval-first. If the agent can't pass quality gates, it doesn't go autonomous.
+* **Templatiz** — AI-powered content OS. Curates top-performing content, generates templated variations, schedules distribution. 200 beta users, 700+ waitlist.
+* **Vibe Code PM** — AI product manager for vibe coders. Runs discovery, validates demand, writes PRDs before you write a prompt. 1,248 waitlist.
 
 ### 🔬 I'm currently exploring:
 
-* **Context-Aware RAG:** Engineering "Personalized Trending" engines that filter global noise through specific business context vectors (as seen in Templatiz).
-* **Reasoning Models:** Optimizing chain-of-thought patterns (o1/DeepSeek) for complex agentic decision-making.
-* **Small Language Models (SLMs):** Running high-performance, local-first inference for privacy-centric enterprise stacks.
-
-### 💬 Ask me about:
-
-* **The "Post-SaaS" Shift:** Why the future is Agentic Workflows (like YOLO Mode), not just Chatbots.
-* **AI Validation:** How I use LangSmith and EvalOS to prevent the "80% failure rate" of AI projects.
-* **Technical Implementation:** Next.js 14 App Router, Supabase Real-time, and n8n automations.
-* **Strategy:** Bridging the gap between "cool demo" and "measurable business outcome."
+ * **Agent security beyond permission scoping.** Ephemeral credentials, trust boundaries, infrastructure-level enforcement. System prompts are advisory, not guardrails.                                   * **Self-learning agent systems.** Agents that compound knowledge over time. Feedback loops that promote patterns from episodic memory into standing lessons automatically.                               * **Eval frameworks for production agents.** Automated quality gates before agents go autonomous. Binary pass/fail over Likert scales. Build evaluators for observed failures, not imagined ones. 
 
 ### ⚡ Fun fact
 
