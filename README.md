@@ -6,7 +6,7 @@
 
 * **Magnetiz.ai** — AI agent systems for B2B GTM teams. 37+ production agents, 85+ GTM skills, 5 custom MCP servers. Eval-first. If the agent can't pass quality gates, it doesn't go autonomous.
 * **Templatiz** — AI-powered content OS. Curates top-performing content, generates templated variations, schedules distribution. 200 beta users, 700+ waitlist.
-* **Vibe Code PM** — AI product manager for vibe coders. Runs discovery, validates demand, writes PRDs before you write a prompt. 1,248 waitlist.
+* **Vibe Code PM** — AI product manager for vibe coders. Runs discovery, validates demand, writes PRDs before you write a prompt. 300+ waitlist.
 
 ### 🔬 I'm currently exploring:
 
