@@ -1,21 +1,25 @@
-# Hi there 👋 I'm Jason Derr
+# Hi, I'm Jason Derr 👋
 
-## AI GTM Engineer | Founder @ Templatiz
+## AI GTM Engineer @ Magnetiz
 
-### 🔧 I'm currently working on:
+Building is no longer the bottleneck. Distribution is. I build the AI systems that close that gap for B2B revenue teams, and I write about what the work teaches me at [derr.ai](https://derr.ai).
 
-* **Magnetiz.ai** — AI agent systems for B2B GTM teams. 37+ production agents, 85+ GTM skills, 5 custom MCP servers. Eval-first. If the agent can't pass quality gates, it doesn't go autonomous.
-* **Templatiz** — AI-powered content OS. Curates top-performing content, generates templated variations, schedules distribution. 200 beta users, 700+ waitlist.
-* **Vibe Code PM** — AI product manager for vibe coders. Runs discovery, validates demand, writes PRDs before you write a prompt. 300+ waitlist.
+### 🔧 What I'm building
 
-### 🔬 I'm currently exploring:
+* **[Maestro AI Revenue System™](https://www.revwisely.com/maestro)**. Signal-based revenue orchestration I architected end to end. It watches buying signals (funding, hiring, job changes, website intent), resolves them to accounts, and runs eval-gated agent workflows that turn them into pipeline. [The build story →](https://derr.ai/projects/maestro)
+* **Delivery loop**. A closed-loop client delivery system. Weekly sync transcript in, tiered task queue out, agent execution behind trust gates, next meeting's deck drafted before I sit down. An agent pod that works like a team (consultant, PM, engineer) with human gates wherever the work carries risk.
+* **[Templatiz](https://templatiz.io)**. AI-powered content OS. Curates top-performing content, generates templated variations, schedules distribution. 200 beta users, 700+ on the waitlist.
+* **[derr.ai](https://derr.ai)**. My corpus. Weekly deep dives on GTM engineering, agent evals, and marketing.
 
- * **Agent security beyond permission scoping.** Ephemeral credentials, trust boundaries, infrastructure-level enforcement. System prompts are advisory, not guardrails.                                   * **Self-learning agent systems.** Agents that compound knowledge over time. Feedback loops that promote patterns from episodic memory into standing lessons automatically.                               * **Eval frameworks for production agents.** Automated quality gates before agents go autonomous. Binary pass/fail over Likert scales. Build evaluators for observed failures, not imagined ones. 
+### 🔬 What I'm exploring
+
+* **Agent security beyond permission scoping.** Ephemeral credentials, trust boundaries, and enforcement at the infrastructure layer. System prompts are advisory.
+* **Self-learning agent systems.** Feedback loops that promote patterns from episodic memory into standing lessons, so the system gets smarter with every run.
+* **Eval frameworks for production agents.** Binary pass/fail quality gates that agents clear before they earn autonomy. Evaluators built from observed failures.
 
 ### ⚡ Fun fact
 
-* Surfing HB and overlanding off Highway 395 in my Jeep 🏄‍♂️
-
+Surfing HB and overlanding off Highway 395 in my Jeep 🏄‍♂️
 <!--
 **derrtaderr/derrtaderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
