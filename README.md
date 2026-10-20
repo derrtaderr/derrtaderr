@@ -7,8 +7,6 @@
 
 **GTM engineer at [Magnetiz](https://magnetiz.ai).** I build the AI systems B2B revenue teams run on, and each one is built to show its work. When the data is wrong, they refuse to guess.
 
-Building is no longer the bottleneck. Distribution is.
-
 ## Start here
 
 | Tool | What it does for you | |
