@@ -1,8 +1,11 @@
-# Jason Derr
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+    <img src="assets/banner-light.gif" alt="Jason Derr, GTM engineer at Magnetiz. A pixel hacker types: building is no longer the bottleneck. distribution is." width="100%">
+  </picture>
+</p>
 
 **GTM engineer at [Magnetiz](https://magnetiz.ai).** I build the AI systems B2B revenue teams run on, and each one is built to show its work. When the data is wrong, they refuse to guess.
-
-Building is no longer the bottleneck. Distribution is.
 
 ## Start here
 
