@@ -22,6 +22,6 @@
 
 ## Where I write
 
-[LinkedIn](https://www.linkedin.com/in/realjasonderr/), daily · [Magnetiz playbooks]([https://magnetiz.ai](https://www.magnetiz.ai/playbooks.html)) · [derr.ai](https://derr.ai)
+[LinkedIn](https://www.linkedin.com/in/realjasonderr/), daily · [Magnetiz playbooks](https://www.magnetiz.ai/playbooks.html) · [derr.ai](https://derr.ai)
 
 Off the clock I surf Huntington Beach and overland off Highway 395.
